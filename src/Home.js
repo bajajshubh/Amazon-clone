@@ -14,7 +14,7 @@ function Home() {
 
                 <div className="home_row">
                 <Product id="123458" title="OnePlus Nord 2 5G (Blue Haze, 8GB RAM, 128GB Storage)" price ={60.99} image="https://m.media-amazon.com/images/I/61TnX0PmqES._SL1500_.jpg" rating={5}/>
-                <Product id="123459" title="iQOO Z3 5G (Ace Black, 6GB RAM, 128GB Storage) | India's First SD 768G 5G Processor " price ={30.99} image="https://m.media-amazon.com/images/I/61uIgwiP90S._SL1200_.jpg" rating={4}/>
+                <Product id="123459" title="iQOO Z3 5G (Ace Black, 6GB RAM, 128GB Storage) | India's First SD 768G 5G Processor " price ={30.00} image="https://m.media-amazon.com/images/I/61uIgwiP90S._SL1200_.jpg" rating={4}/>
                 <Product id="123460" title="Mi 10i 5G (Midnight Black, 6GB RAM, 128GB Storage) - 108MP Quad Camera | Snapdragon 750G Processor" price ={26.98} image="https://m.media-amazon.com/images/I/71+KJpeI2rL._SL1500_.jpg" rating={3}/>
                                     
                 </div>
